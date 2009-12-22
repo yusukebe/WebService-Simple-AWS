@@ -8,6 +8,7 @@ inc/Module/Install/Fetch.pm
 inc/Module/Install/Include.pm
 inc/Module/Install/Makefile.pm
 inc/Module/Install/Metadata.pm
+inc/Module/Install/Repository.pm
 inc/Module/Install/TestBase.pm
 inc/Module/Install/Win32.pm
 inc/Module/Install/WriteAll.pm
@@ -23,4 +24,4 @@ MANIFEST			This list of files
 META.yml
 README
 t/00_compile.t
-
+t/10_product_advertising_asin.t
