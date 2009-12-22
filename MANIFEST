@@ -1,6 +1,7 @@
 .gitignore
 Changes
 eg/product_advertising.pl
+eg/simpledb_domain.pl
 inc/Module/Install.pm
 inc/Module/Install/Base.pm
 inc/Module/Install/Can.pm
