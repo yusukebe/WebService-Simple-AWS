@@ -81,13 +81,15 @@ WebService::Simple::AWS is Simple Interface to Amazon Web Service using WebServi
 Add "Signature" and "Timestamp" parameters if accessing to API.
 Currently this API supports only "Signature Version 2".
 
+See L<eg/product_advertising.pl>.
+
 =head1 AUTHOR
 
 Yusuke Wada E<lt>yusuke at kamawada.comE<gt>
 
 =head1 SEE ALSO
 
-C<WebSercie::Simple>
+L<WebSercie::Simple>
 
 http://docs.amazonwebservices.com/AWSECommerceService/latest/DG/index.html?rest-signature.html
 
