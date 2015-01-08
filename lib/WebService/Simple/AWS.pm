@@ -6,7 +6,7 @@ use Digest::SHA qw(hmac_sha256_base64);
 use URI::Escape qw(uri_escape_utf8);
 use Carp;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 sub request_url {
     my $self   = shift;
@@ -85,7 +85,7 @@ See L<eg/product_advertising.pl>.
 
 =head1 AUTHOR
 
-Yusuke Wada E<lt>yusuke at kamawada.comE<gt>
+Yusuke Wada  C<< <yusuke@kamawada.com> >>
 
 =head1 SEE ALSO
 

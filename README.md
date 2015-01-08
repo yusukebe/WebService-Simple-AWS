@@ -36,7 +36,7 @@ See ["product\_advertising.pl" in eg](https://metacpan.org/pod/eg#product_advert
 
 # AUTHOR
 
-Yusuke Wada <yusuke at kamawada.com>
+Yusuke Wada  `<yusuke@kamawada.com>`
 
 # SEE ALSO
 

@@ -1,10 +1,10 @@
 {
    "abstract" : "Simple Interface to Amazon Web Service using WebService::Simple",
    "author" : [
-      "Yusuke Wada <yusuke at kamawada.com>"
+      "Yusuke Wada  C<< <yusuke@kamawada.com> >>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Minilla/v2.3.0, CPAN::Meta::Converter version 2.143240",
+   "generated_by" : "Minilla/v2.3.0, CPAN::Meta::Converter version 2.142690",
    "license" : [
       "perl_5"
    ],
@@ -67,8 +67,9 @@
          "web" : "https://github.com/yusukebe/WebService-Simple-AWS"
       }
    },
-   "version" : "0.01",
+   "version" : "0.02",
    "x_contributors" : [
-      "Yusuke Wada <yusukebe@cpan.org>"
+      "Yusuke Wada <yusukebe@cpan.org>",
+      "Yusuke Wada <yusuke@kamawada.com>"
    ]
 }
