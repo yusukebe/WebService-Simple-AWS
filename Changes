@@ -1,4 +1,8 @@
 Revision history for Perl extension WebService::Simple::AWS
 
+{{$NEXT}}
+
+        - Support for new WebService::Simple
+
 0.01    Tue Dec 22 16:14:35 2009
         - original version

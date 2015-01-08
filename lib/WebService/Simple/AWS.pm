@@ -26,7 +26,7 @@ sub request_url {
     my $signature = hmac_sha256_base64( $tosign, $secret );
     $signature .= '=' while length($signature) % 4;
     $params->{Signature} = $signature;
-    $uri->query_form($params);
+    $uri->query_form(%$params);
     return $uri;
 }
 
