@@ -89,7 +89,7 @@ Yusuke Wada  C<< <yusuke@kamawada.com> >>
 
 =head1 SEE ALSO
 
-L<WebSercie::Simple>
+L<WebService::Simple>
 
 http://docs.amazonwebservices.com/AWSECommerceService/latest/DG/index.html?rest-signature.html
 
