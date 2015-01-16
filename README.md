@@ -40,7 +40,7 @@ Yusuke Wada  `<yusuke@kamawada.com>`
 
 # SEE ALSO
 
-[WebSercie::Simple](https://metacpan.org/pod/WebSercie::Simple)
+[WebService::Simple](https://metacpan.org/pod/WebService::Simple)
 
 http://docs.amazonwebservices.com/AWSECommerceService/latest/DG/index.html?rest-signature.html
 
